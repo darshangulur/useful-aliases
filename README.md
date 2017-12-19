@@ -8,4 +8,6 @@ To make sure any of your aliases are usable immediately without closing the tab 
 
 `alias ll="ls -al"`
 
+To open current directory in Finder - `alias o="open ."`
+
 To remove any alias - `unalias <alias-name>`
